@@ -32,12 +32,12 @@ $ sudo make install
 ```
 ![Alt Text](Images/yosys.jpeg)
 
-#### <ins>**Iverilog**</ins>
+#### <ins>**iverilog**</ins>
 ```bash
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
-![Alt Text](Images/Iverilog.jpeg)
+![Alt Text](Images/iverilog.jpeg)
 
 #### <ins>**gtkwave**</ins>
 ```bash
