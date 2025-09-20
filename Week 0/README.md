@@ -14,7 +14,7 @@
 
 ### **TOOL CHECK**
 
-#### <ins>**Yosys**</ins>
+#### <ins>**yosys**</ins>
 ```bash
 $ sudo apt-get update
 $ git clone https://github.com/YosysHQ/yosys.git
